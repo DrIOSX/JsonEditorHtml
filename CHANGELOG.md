@@ -7,5 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Update Changelog
+
+## [0.1.0-preview0001] - 2024-07-23
+
+### Added
+
 - Initial Module and function.
 - Added initial pester tests.
